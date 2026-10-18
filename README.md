@@ -1,7 +1,7 @@
-# Shravani & Mehul · Wedding Invitation (Angular)
+# Diksha & Abhas · Wedding Invitation (Angular)
 
 The animated wedding invitation (envelope intro, falling petals, countdown, events,
-RSVP and venue map) as a Angular project.
+RSVP and venue map) as an Angular project.
 
 ## Run it on your computer
 
